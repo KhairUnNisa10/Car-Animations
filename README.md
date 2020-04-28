@@ -1,5 +1,5 @@
 # Car-Animations
-Running car using animations.
+Running car animation with a mix of images and css animation properties
 
 Published Link: https://khairunnisa10.github.io/Car-Animations/
 
